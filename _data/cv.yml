@@ -1,0 +1,102 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Yuanjie Shi
+    - name: Position
+      value: PhD Candidate in Computer Science, Washington State University
+    - name: Email
+      value: <a href="mailto:yuanjie.shi@wsu.edu">yuanjie.shi@wsu.edu</a>
+    - name: GitHub
+      value: <a href="https://github.com/YuanjieSh">github.com/YuanjieSh</a>
+
+- title: Research Interests
+  type: list
+  contents:
+    - Robust machine learning
+    - Uncertainty quantification and conformal prediction
+    - Federated learning
+    - Reliable and controllable large language models
+    - Generative models
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Computer Science
+      institution: Washington State University, Pullman, Washington
+      year: 2021 - Present
+      description:
+        - "Advisor: Prof. Yan Yan"
+        - "Research topic: Robust Machine Learning: From Representation to Uncertainty Quantification"
+        - Expected graduation in 2026
+    - title: MS in Electrical Engineering
+      institution: Stevens Institute of Technology, Hoboken, New Jersey
+      year: 2017 - 2019
+      description:
+        - "Advisor: Prof. Kevin Lu"
+        - "Thesis: An Auto-drive Car based on Raspberry Pi"
+    - title: BE in Automation
+      institution: Chongqing University, Chongqing, China
+      year: 2012 - 2016
+      description:
+        - "Advisor: Prof. Jianghong Ren"
+        - "Thesis: Research on Failure Modes of Urban Secondary Water Supply System"
+
+- title: Research and Professional Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      institution: Washington State University, EECS
+      year: 2021 - Present
+    - title: Research Intern
+      institution: Tsinghua University, Department of Automation
+      year: 2017
+      description:
+        - Worked with Prof. Lingxuan Zhang on genetic-algorithm-based production scheduling for assembly lines.
+    - title: Automation Engineering Intern
+      institution: No. 3 Research Institute of State-owned Dazhong Machine Works, China
+      year: 2016
+
+- title: Teaching and Outreach
+  type: time_table
+  contents:
+    - title: Teaching Assistant / Guest Lecturer
+      institution: Washington State University, EECS
+      year: 2026
+      description:
+        - Assisted with CptS 434 and delivered three lectures on neural network design and applications.
+    - title: Project Assistant, Girls Who Tech Camp
+      institution: Washington State University, EECS
+      year: 2026
+      description:
+        - Supported hands-on computing and project-based learning activities for high school students.
+    - title: Teaching Assistant
+      institution: Washington State University, EECS
+      year: 2025
+      description:
+        - CptS 434 - Neural Network Design and Applications.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - ICML Gold Reviewer
+        - Outstanding Dissertation in EECS, College of VCEA, Washington State University
+    - year: 2025
+      items:
+        - NeurIPS Top Reviewer
+        - Outstanding Research Assistant in EECS, College of VCEA, Washington State University
+    - year: 2023 - 2024
+      items:
+        - Mahmoud M. Dillsi Family Graduate Fellowship, Washington State University
+
+- title: Professional Service
+  type: list
+  contents:
+    - Program committee member / reviewer for UAI 2026, AISTATS 2026, ICLR 2026, AAAI 2026, NeurIPS 2025-2026, and ICML 2025-2026.
+
+- title: Mentoring
+  type: list
+  contents:
+    - Mentored approximately eight undergraduate and junior PhD researchers at Washington State University since 2022 on conformal prediction and uncertainty quantification.

@@ -1,0 +1,24 @@
+
+"Vision":
+  color: "#009f36"
+
+# "ML":
+#   color: "#4FAE5B"
+
+"Optimization":
+  color: "#5F97D1"
+
+"Application":
+  color: "#A8948C"
+
+"CP":
+  color: "#8B5FBF"
+
+"Robust":
+  color: "#7E95A1"
+
+"FL":
+  color: "#64B5F6"
+
+"LLM":
+  color: "#E8833A"
