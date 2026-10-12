@@ -28,14 +28,16 @@ latest_posts:
 I am a PhD candidate in Computer Science at the
 [School of Electrical Engineering and Computer Science](https://school.eecs.wsu.edu/),
 [Washington State University](https://wsu.edu/), advised by
-[Prof. Yan Yan](https://yanyan.pro/). I expect to graduate in 2026.
+[Prof. Yan Yan](https://yanyan.pro/).
 
-My research develops reliable machine learning methods with statistically valid and distribution-free risk control. I work at the intersection of **robust machine learning**, **uncertainty quantification**, **conformal prediction**, **federated learning**, and **reliable and controllable language models**.
+<p class="job-market">I am on the job market for faculty and research positions in AI and machine learning.</p>
+
+My research develops **foundations and systems for reliable AI**. I study how to measure reliability, improve it through learning, and guide AI behavior during reasoning and execution. My work connects statistical guarantees with practical methods for building reliable and controllable AI.
 
 ### Research directions
 
-- **Distribution-free uncertainty quantification and risk control:** conformal methods for reliable and efficient human–ML collaboration.
-- **Federated learning under decentralized heterogeneity:** uncertainty-aware and privacy-preserving learning under cross-client distribution shift.
-- **Reliable and controllable language models:** uncertainty-aware inference, preference alignment, and reliability analysis for multi-step LLM systems.
+- **Foundations of reliable AI:** I develop statistical guarantees and learning methods for uncertainty quantification, robust prediction, and preference alignment. My work includes informative conformal prediction sets, risk control under distribution shift, and training objectives that improve robustness to label noise and imperfect preference data.
 
-My work has appeared at ICML, ICLR, NeurIPS, AISTATS, AAAI, and UAI. I received the WSU EECS Outstanding Dissertation award (2026), the WSU EECS Outstanding Research Assistant award (2025), an ICML Gold Reviewer recognition (2026), and a NeurIPS Top Reviewer recognition (2025).
+- **Systems for reliable AI:** I develop methods for reliable federated learning, LLM reasoning, and agent execution. My work addresses calibration across heterogeneous clients, factuality control, error propagation in LLM pipelines, evidence requirements for tool actions, and risk-triggered intervention in embodied agents.
+
+My work has appeared at ICML, ICLR, NeurIPS, AISTATS, AAAI, and UAI. My honors include the **WSU EECS Outstanding Dissertation Award (2026)**, the **WSU EECS Outstanding Research Assistant Award (2025)**, and the **Mahmoud M. Dillsi Family Graduate Fellowship (2023–2024)**. I have also been recognized as an **ICML Gold Reviewer (2026)**, a **UAI Top Reviewer (2026)**, and a **NeurIPS Top Reviewer (2025)**.

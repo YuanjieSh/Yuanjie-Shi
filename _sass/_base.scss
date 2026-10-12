@@ -712,6 +712,17 @@ footer.sticky-bottom {
   }
 }
 
+// Job-market announcement
+
+.job-market {
+  color: $red-color-dark;
+  font-weight: 700;
+}
+
+html[data-theme="dark"] .job-market {
+  color: #ff6b6b;
+}
+
 // Publications
 
 .publications {
@@ -757,9 +768,12 @@ footer.sticky-bottom {
 
         abbr {
           display: inline-block;
-          background-color: var(--global-theme-color);
+          background-color: $purple-color;
           margin-bottom: 0.5rem;
-          color: var(--global-card-bg-color) !important;
+          color: $white-color !important;
+          white-space: normal;
+          line-height: 1.25;
+          padding: 0.25rem 0.5rem;
 
           a {
             color: white;
@@ -805,6 +819,11 @@ footer.sticky-bottom {
             border-bottom: 1px dashed var(--global-text-color);
           }
         }
+      }
+
+      .additional-info {
+        margin-top: 0.2rem;
+        font-size: 0.9rem;
       }
 
       .links {
